@@ -17,3 +17,4 @@ My name is Sergio, I'm from Valencia (Spain) and I'm full stack developer.
 
 ## Contact :email:
 You can find me at sergio.ochando.dev@gmail.com
+or www.linkedin.com/in/sergio-ochando-blasco-b3329b219
