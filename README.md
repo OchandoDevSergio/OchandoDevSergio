@@ -11,7 +11,7 @@ My name is Sergio, I'm from Valencia (Spain) and I'm full stack developer.
 
 -Software architecture patterns: model view controller pattern and layered pattern.
 
--Single page applications, pagination, single and multi-table querys, call for DDBB and API functions.
+-JS frameworks for Single Page Applications, react dinamic pagination, single and multi-table querys by sequelize, call for DDBB and API functions.
 
 -Postman and MySQL workbench handling.
 
