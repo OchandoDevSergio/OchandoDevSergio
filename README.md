@@ -11,14 +11,16 @@ My name is Sergio, I'm from Valencia (Spain) and I'm full stack developer.
 
 -Software architecture patterns: model view controller pattern and layered pattern.
 
--JS frameworks for Single Page Applications, react dinamic pagination, single and multi-table querys by sequelize, call for DDBB and API functions.
+-Application programming interface RESTful API.
+
+-JS frameworks for Single Page Applications and react dinamic pagination.
 
 -Postman and MySQL workbench handling.
 
 ## Other skills :books:
--Critical thinking, lateral thinking and logical skills.
+-Critical thinking, lateral thinking, abstract thinking and logical skills.
 
--Decision making and problem solving skills.
+-Decision making, teamwork and problem solving skills.
 
 -PhD student in philosophy.
 
