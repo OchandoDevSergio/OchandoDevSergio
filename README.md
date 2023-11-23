@@ -15,7 +15,7 @@ My name is Sergio, I'm from Valencia (Spain) and I'm full stack developer.
 
 -JS frameworks for Single Page Applications and react dinamic pagination.
 
--Postman and MySQL workbench handling.
+-Postman, MySQL workbench and MongoDB Compass handling.
 
 ## Other skills :books:
 -Critical thinking, lateral thinking, abstract thinking and logical skills.
